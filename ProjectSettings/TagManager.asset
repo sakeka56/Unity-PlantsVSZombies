@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StaticImage
+  - Plant
+  - Zombie
+  - ATK
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Cell
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2239453441
+    locked: 0
+  - name: UI
+    uniqueID: 1418634941
+    locked: 0
+  - name: Game
+    uniqueID: 378224327
+    locked: 0
+  - name: Foreground
+    uniqueID: 376281633
+    locked: 0
+  - name: Sun
+    uniqueID: 219182853
+    locked: 0
+  - name: CurrentPlant
+    uniqueID: 2064713855
+    locked: 0
